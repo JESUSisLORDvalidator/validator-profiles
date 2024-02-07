@@ -1,0 +1,10 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
+}"ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}
+"ghcr.io/devcontainers/features/aws-cli:1": {}
+"ghcr.io/devcontainers-contrib/features/aws-cdk:2": {}
+"ghcr.io/astronomer/devcontainer-features/astro-cli:1": {}
+"ghcr.io/devcontainers-contrib/features/composer:1": {}
+"ghcr.io/devcontainers/features/powershell:1": {}
